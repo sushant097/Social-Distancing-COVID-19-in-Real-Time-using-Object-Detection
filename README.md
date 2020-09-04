@@ -5,5 +5,5 @@ I have used SSD Object Detection Architecture to detect only Person Class and tr
 
 # Demo
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/l59EadIaPWg/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/l59EadIaPWg/0.jpg)](http://www.youtube.com/watch?v=l59EadIaPWg "Video Title")
 
